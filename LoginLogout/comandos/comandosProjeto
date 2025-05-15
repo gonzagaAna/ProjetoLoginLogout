@@ -1,0 +1,13 @@
+instalar pacotes:
+npm init -y
+npm i express
+npm install express-session
+
+para rodar:
+node app.js
+
+no reqbin (fazer no arquivo json para teste):
+{
+  "username": "usuário",
+  "password": "123"
+}
